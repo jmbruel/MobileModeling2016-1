@@ -26,6 +26,9 @@ Baptiste CRESPIN
 ## Comparatif iOS/Android
 
 Quentin Labeyrie
+
 Nejmeddine Gadacha
+
 Valentin Eutrope
+
 Elias Mouawad
