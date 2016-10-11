@@ -20,7 +20,7 @@ Alexandre GALLO GONZALEZ
 
 Jérémy ALVES-NETO
 
-Baptiste Crespin
+Baptiste CRESPIN
 
 ## Comparatif iOS/Android
 
