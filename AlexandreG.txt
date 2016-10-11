@@ -1,6 +1,12 @@
 # Différents langages pour faire de l'android
 
-- java avec eclipse et android studio
-- html/javascript (librairie java WebView) avec eclipse et android studio
+- JAVA avec Eclipse (obsolète) et Android Studio
+	L'utilisation la plus classique pour créer des applications androids est l'utilisation du SDK (Software Development Kit) fournit par "google". Il est préférable d'utiliser un IDE afin de générer des classes complexes étant donné qu'il faut avoir une architecture de code complexe.
+- C++ avec android studio
+	"Google" a fournit le NDK (Native Development Kit ) qui permet de faire des applications android à partir de code en C et C++.
+- GoLang
+	Le langage "made in Google" a été conçu aussi afin d'être utiliser pour faire des applications android. Cependant comme ce langage est encore nouveau, toutes les fonctionnalités d'android n'est pas encore implémenté. De plus, ce langage est un langage procédurale ce qui limite la conception des applications. Cependant il est bien possible d'imaginer que plus tard, afin de réaliser des petites applications, ce langage devienne de plus en plus utilisé.
+- HTML/JS avec Eclipse (obsolète) et Android Studio
+	Dans le SDK fournit, une  par  librairie java WebView
 - ruby avec librairie ruboto et éditeur de texte quelconque
 - php est possible mais il faut une application sur android pour lire les fichiers php.
