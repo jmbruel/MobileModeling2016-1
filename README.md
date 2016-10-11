@@ -14,6 +14,7 @@ Bastien Kovac
 ## Outils de modélisation d'interfaces
 
 Clément Ryckaert
+Mathieu VIALES
 
 ## Plateformes de développement Android
 
