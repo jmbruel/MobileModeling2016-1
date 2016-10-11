@@ -15,6 +15,7 @@ Site du cours de modélisation des applications mobiles de la LP APSIO 2016-2017
 ## Plateformes de développement Android
 
 Alexandre GALLO GONZALEZ
+Jérémy ALVES-NETO
 
 ## Comparatif iOS/Android
 
