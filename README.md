@@ -22,4 +22,7 @@ Baptiste Crespin
 
 ## Comparatif iOS/Android
 
-[Ajouter la composition du groupe (Prénom, Nom) ici]
+Quentin Labeyrie
+Nejmeddine Gadacha
+Valentin Eutrope
+Elias Mouawad
