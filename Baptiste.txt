@@ -17,3 +17,9 @@ Google c'est basé sur IntelliJ pour créer son IDE (la version open-source bien/g
 
 Android studio se base aussi sur Gradle qui sert à la construction et compilation du build
 
+solution xamarin permet de passer un app windows (donc dev en c#) en app IOS ou Android
+
+AIDE (Android Java IDE) il peut s'installer directement sur un terminal Android. Il combine editeur + compilateur + refactoring
+
+Titanium Studio : Le framework Titanium permet d'écrire des interfaces graphiques pour mobile en Javascript qui sont ensuite compilables pour la plus part des plateformes mobiles comme Android, iPhone, Black Berry, Tizen, et bientôt (annoncé pour fin 2013) Windows Phone. Le développement d'une application Titanium est similaire au dévellopement d'une application Java
+
