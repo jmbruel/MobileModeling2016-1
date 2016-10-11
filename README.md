@@ -8,7 +8,8 @@ Le site du cours : https://jmbruel.github.io/teaching/MobileModeling.html
 
 ## Concepts
 
-[Ajouter la composition du groupe (Prénom, Nom) ici]
+Fabien Ricard
+Bastien Kovac
 
 ## Outils de modélisation d'interfaces
 
