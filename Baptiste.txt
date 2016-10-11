@@ -1,0 +1,19 @@
+# Plateforme de dev Android
+
+article sur igen.fr
+
+version 1.0 de android studio sorti en 2014 avec une préparation de 2 ans.
+
+avant était utilisé eclipse avec le plugin ADT (Android Developer Tools)
+d'autres plateformes étaient également supportés par le plugin ADT comme NetBeans ou IntelliJ
+
+OS supportés OS X, Windows et Linux
+
+Android Studio permet de concevoir des applications pour la multiplicité des produits Android du marché, des tablettes à Android Wear, en passant par Android Auto, Google Glass ou Android TV
+
+Compris dans android studio un émulateur comprenant les pincipales tailles d'écran des terminaux android
+
+Google c'est basé sur IntelliJ pour créer son IDE (la version open-source bien/gratuite sur IntelliJ Community Edition)
+
+Android studio se base aussi sur Gradle qui sert à la construction et compilation du build
+
