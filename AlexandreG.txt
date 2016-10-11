@@ -1,0 +1,6 @@
+# Différents langages pour faire de l'android
+
+- java avec eclipse et android studio
+- html/javascript (librairie java WebView) avec eclipse et android studio
+- ruby avec librairie ruboto et éditeur de texte quelconque
+- php est possible mais il faut une application sur android pour lire les fichiers php.
