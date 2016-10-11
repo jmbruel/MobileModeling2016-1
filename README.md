@@ -18,6 +18,8 @@ Alexandre GALLO GONZALEZ
 
 Jérémy ALVES-NETO
 
+Baptiste Crespin
+
 ## Comparatif iOS/Android
 
 [Ajouter la composition du groupe (Prénom, Nom) ici]
