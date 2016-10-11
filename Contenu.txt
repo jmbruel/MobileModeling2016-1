@@ -1,0 +1,48 @@
+I/Problématique:
+Quels sont les concepts UML les plus populaires, et comment sont-ils utilisés dans le cadre du développement mobile ?
+
+Le langage UML est une standardisation de différents diagrammes de conceptions qui peuvent être utilisés à différentes étapes du développement d'un produit.
+Ces diagrammes permettent une communication efficace et claire entre les différents acteur du développement (client, développeurs, designer ...), ce qui essentiel pour n'importe quel projet d'envergure, notamment les applications mobiles
+
+II/ Liste des diagrammes les plus utilisés : 
+
+1. Diagramme de classes (diagramme_class.png)
+
+Le diagramme de classe est l’outil de conception le plus utilisé dans le cadre de la programmation orienté objet (POO). Il permet de représenter les différentes classes, avec leurs attributs et méthodes, ainsi que les relations entre celles-ci (héritage, implémentation d’interfaces, appartenance …)
+
+2. Diagramme d’activité (diagramme_activite.png)
+
+Le diagramme d’activité permet de représenter graphiquement le “workflow” de certaines activités ou fonctionnalités, en représentant les différents états du système par des colonnes sur le diagramme. Les transitions entre états sont ensuite modélisées par un ensemble d'actions et de décisions qui constituent le workflow du système 
+Légende :
+Rectangle arrondis : Actions
+Losanges : Décisions
+Rectangles : “Produits” émis
+Barres : Début ou fin d’un bloc d’activités parallèles
+Rond noir : Etat initial
+Rond noir entouré : Etat final
+
+3. Diagramme d’objets (diagramme_objets.png)
+
+Un diagramme d’objets permet de représenter une vue partielle ou complète de la structure d’un système à un instant spécifique, il s’agit d’une spécialisation d’un diagramme de classe.
+
+4. Diagramme de cas d'utilisation (diagramme_uc.png)
+
+Un diagramme de cas d’utilisation est une représentation la plus simpliste possible entre un utilisateur et les différents cas d’utilisation auxquels il peut prendre part. Ce diagramme peut permettre d’identifier les potentiels utilisateurs d’un système. Il permet également un point de vue plus simple du système, utile par exemple en communiquant avec un client
+
+5. Diagramme d’état (diagramme_etat.png)
+
+Un diagramme d’état permet de représenter les différents états du système, ainsi que les conditions nécessaires pour passer d’un état à l’autre (événements, conditions …)
+
+6. Diagramme de déploiement (diagramme_deploiement.png)
+
+Un diagramme de déploiement représente le déploiement physique des différents modules du système. Par exemple, pour un site web, les différents modules pourraient être le serveur web, un serveur d’application, une base de données …
+Le diagramme permet de représenter la façon dont ces modules sont connectés.
+
+7. Diagramme composants (diagramme_composants.png)
+
+Le diagramme de composants est utilisé dans le cadre de projets importants, qui nécessitent d’être séparés en différents composants. Ce diagramme permet alors de représenter la structure organisant ces composants 
+
+8. Diagramme de séquence (diagramme_sequence.png)
+
+Un diagramme de séquence représente les interactions entre les différents objets qui composent le système. La temporalité est respectée de manière verticale sur le diagramme.
+
