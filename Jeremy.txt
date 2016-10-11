@@ -1,0 +1,13 @@
+# Plateforme Android
+
+Eclipse -> Plugin ADT, ne marche plus depuis que Android Studio est sorti car il devient l'IDE Officiel
+IntelliJ IDEA -> IDE Java, on peut faire de l'Android avec tools/frameworks correspondant
+Android Studio -> Premier IDE dédié à Android, basé sur IntelliJ IDEA, sorti le 1er Décembre 2014
+https://developer.android.com/studio/index.html
+
+« kit de développement » ou SDK (Software Development Kit)
+Android, il est le système le plus utilisé sur smartphones : 80% des parts de marchés.(2)
+
+Composé d'un noyau Linux (avec les pilotes)
+Environnement d'éxécution prévu pour Java
+
