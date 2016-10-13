@@ -1,17 +1,63 @@
 Outils
 
-N’existe pas de modélisation IHM en UML
+
+Techniques
+Outis
+Open source
+SNI
+Mockup
+Wireframe
+Prototype	
+
+Pencil : http://pencil.evolus.vn/
+
+Oui
+Problématique :	
+Un des problèmes rencontrées lors de la création d'application est qu’il n’existe pas de moyen standard, comme l’UML, de représenter les IHM et leurs interactions avec l’utilisateur..
+
+Pour répondre à ce besoin de modélisation, de nombreux outils sont apparus afin d’apporter une aide.
+Plusieurs types de modélisation existent:
+Les SNI :
+
+Le wireframing :
+Définit l’emplacement et les actions liées aux différents éléments de l’application
+Les Mockups : 
+Très proche du design final.
+Les Prototypes :
 
 
 
+
+
+	Le SNI est un modèle permettant de représenter graphiquement la description d’une Interface Homme-Machine (IHM) et des interaction entre l’utilisateur et l’application, de façon totalement indépendante des technologies et des restrictions qui y sont liées.
+
+
+
+
+et article présente le SNI, Schéma Navigationnel d'Interactions, comme un modèle de représentation des interfaces homme-machine permettant d'une part, de concevoir une IHM tenant compte des exigences des utilisateurs, et d'autre part de générer automatiquement, par transformation de modèles, un squelette du logiciel souhaité. En fait, deux niveaux de modèles sont proposés. Le niveau conceptuel (SNI) permet de spécifier la navigation fonctionnelle dans le logiciel indépendamment de toute plateforme technique. Le niveau logique décrit l'enchaînement dynamique et la définition détaillée des composants de l'IHM en fonction d'une plateforme de développement particulière (GUI, WEB, multimodal …). Cet article présente ces deux niveaux de modèles, leurs méta-modèles respectifs et l'outil logiciel "VisualSNI" permettant de construire le SNI et de générer automatiquement une maquette dans le framework JSF.
 Outils:
 Traditionnel papier + crayon : Permet de tout décrire sans limitations.
-Première étape de l’imagination a la représentation.
+Première étape de l’imagination à la représentation.
+
+De manière générale, outil informatisé:
+Donne un cadre de travail. PErmet d’échanger, collaborer, et versionner les idées d’interfaces . 
+
+
+
+
+
+
+
+
+
 
 
 
 
 Notes:
-SNI : Mockups haut niveau avec navigation entre interfaces et vues.
+
+Wireframe : presentation des fonctionalités, montre ce que l’on peu realiser avec un design donné : blueprint
+Mockup : représentaiton realiste de l’aspect du produit 
+SNI : Mockups/wireframe haut niveau avec navigation entre interfaces et vues.
 Permet potentiellement de générer du code 
 
