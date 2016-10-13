@@ -1,12 +1,19 @@
-# Différents langages pour faire de l'android
+# Différents langages pour faire de l'Android
 
 - JAVA avec Eclipse (obsolète) et Android Studio
-	L'utilisation la plus classique pour créer des applications androids est l'utilisation du SDK (Software Development Kit) fournit par "google". Il est préférable d'utiliser un IDE afin de générer des classes complexes étant donné qu'il faut avoir une architecture de code complexe.
+	L'utilisation la plus classique pour créer des applications androids est l'utilisation du SDK (Software Development Kit) fourni par "google". Il est préférable d'utiliser un IDE afin de générer des classes complexes étant donné qu'il faut avoir une architecture de code complexe.
 - C++ avec android studio
 	"Google" a fournit le NDK (Native Development Kit ) qui permet de faire des applications android à partir de code en C et C++.
 - GoLang
-	Le langage "made in Google" a été conçu aussi afin d'être utiliser pour faire des applications android. Cependant comme ce langage est encore nouveau, toutes les fonctionnalités d'android n'est pas encore implémenté. De plus, ce langage est un langage procédurale ce qui limite la conception des applications. Cependant il est bien possible d'imaginer que plus tard, afin de réaliser des petites applications, ce langage devienne de plus en plus utilisé.
+	Le langage "made in Google" a été conçu aussi afin d'être utilisé pour faire des applications android. Cependant comme ce langage est encore nouveau, toutes les fonctionnalités d'android ne sont pas encore implémentées. De plus, ce langage est procédural ce qui limite la conception des applications. Cependant il est bien possible d'imaginer que plus tard, afin de réaliser des petites applications, ce langage devienne de plus en plus utilisé.
 - HTML/JS avec Eclipse (obsolète) et Android Studio
-	Dans le SDK fournit, une  par  librairie java WebView
-- ruby avec librairie ruboto et éditeur de texte quelconque
-- php est possible mais il faut une application sur android pour lire les fichiers php.
+	<img src="image_alex/webview_logo.jpg" />
+	Dans le SDK fourni, une classe java appelée WebView qui permet de convertir des fichiers HTML et javascript pour réaliser une application android. L'utilisation de l'HTML pour créer des pages ne gène en rien à l'utilisateur car elles sont très proches aux pages vues mais le javascript qui est un langage interprété et n'est pas natif à l'android peut avoir des pertes de performances.
+- Ruby avec le framework Ruboto
+	<img src="image_alex/ruboto_logo.jpg" />	
+	Le langage ruby intègre diverses librairies et frameworks dont un appelé "Ruboto". Il englobe certaines librairies qui permet d'intégrer en ruby certaines méthodes qui correspondent aux besoins du développement android. Puis il convertit le code en code java pour créer un .apk afin de déployer l'application. Ce framework est fonctionnel (version 1.4.1), donnera une application aussi rapide qu'une application réaliser avec Java et l'utilisation du ruby facilite les tests automatisés, cependant ce famework nécessiterait de cadrer les méthodes de travail (mvc n'est pas implémenté nativement) de plus ce n'est pas pratique de tester nous-mêmes l'application rapidement vu qu'il génère un .apk directement sur l'ordinateur.
+- PHP avec les outils de PHPForAndroid
+	<img src="image_alex/phpforandroid_logo.jpg" />
+	L'utilisation du PHP est possible pour créer des applications android cependant c'est encore très expérimental et ça nécessite l'utilisation d'applications tierses qui vont comprendre le langage et l'interpréter pour l'android. Cependant pour les vues de l'application, il faut apprendre chaque objet qui est retranscrit en PHP ce qui n'est pas aisé.
+	
+Au vu de cette suite de langages possibles pour réaliser des applications androids, nous pouvons en déduire que pour les performances et la simplification du code produit. nous pouvons en déduire que le Java et le C++ restent les meilleurs langages. Cependant le HTML/JS est aussi très utilisé car cela reste le plus simple pour réaliser ces applications.
