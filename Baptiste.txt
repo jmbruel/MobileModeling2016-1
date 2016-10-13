@@ -23,3 +23,9 @@ AIDE (Android Java IDE) il peut s'installer directement sur un terminal Android.
 
 Titanium Studio : Le framework Titanium permet d'écrire des interfaces graphiques pour mobile en Javascript qui sont ensuite compilables pour la plus part des plateformes mobiles comme Android, iPhone, Black Berry, Tizen, et bientôt (annoncé pour fin 2013) Windows Phone. Le développement d'une application Titanium est similaire au dévellopement d'une application Java
 
+L'objectif d'un environnement de développement est d'augmenter la productivité des programmeurs en automatisant une partie des activités et en simplifiant les opérations. Les environnements de développement visent également à améliorer la qualité de la documentation en rapport avec le logiciel en construction5. Certains environnements de développement offrent également la possibilité de créer des prototypes, de planifier les travaux et de gérer des projets.
+
+Intro
+	Avant de pouvoir ce lancer dans du développement d'une application android il faut se demander quels environnement de développement intégré va-t-on utiliser afin de gagner du temps. 
+Plusieurs choix s'offre à nous dont le plus utilisé Android Studio. Mais il existe plusieurs EDI différents comprenant leur propre langage. 
+La plupart des EDI de développement mobile comporte un outil très utile qui permet de modéliser l'interface graphique générale que l'application aura quand on la lancera sur une plateforme mobile.
