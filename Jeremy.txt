@@ -21,3 +21,7 @@ Composé d'un noyau Linux (avec les pilotes)
 Environnement d'éxécution prévu pour Java
 
 2016 -> 86% des téléphones sont sous Android
+
+Problématique :
+Quelles sont les plateformes de développement les plus utilisées, et les plus performantes pour Android ?
+
