@@ -14,36 +14,8 @@ Les Prototypes :
 Peuvent simuler les interactions entre les différentes vues de l’ihm.
 
 
-Nom de l’outil
-Les +
-Les -
-Open source
-Payant
-Pencil
-
-
-Pas orienté SNI
-oui
-non
-Microsoft Visio
-
-
-Windows only, pas orienté SNI 
-non
-oui
-VisualSNI
-Orienté SNI
-
-
-non
-non
-Draw.io
-En ligne, grande bibliothèque d’objets
-Pas orienté SNI
-non
-non
-
+<table.png>
 
 
 	Le SNI est un modèle permettant de représenter graphiquement la description d’une Interface Homme-Machine (IHM) et des interaction entre l’utilisateur et l’application, de façon totalement indépendante des technologies et des restrictions qui y sont liées.
-
+<sni.png>
