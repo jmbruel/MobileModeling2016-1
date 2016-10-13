@@ -1,0 +1,34 @@
+h2
+{
+    text-align: center;
+}
+
+#androidImg
+{
+    margin-left: 25%;
+    width: 50%;
+}
+
+#table
+{
+    text-align: center;
+    color: #150909;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+#iOSImg
+{
+    margin-left: 25%;
+    width: 50%;
+}
+
+#frameGoogle
+{
+    margin-left: 15%;
+    text-align: center;
+    width: 70%;
+    height: 500px;
+    border: inset 1px;
+    border-radius: 5px;
+}
