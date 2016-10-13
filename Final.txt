@@ -9,28 +9,28 @@ La plupart des IDE pour les applications mobiles comportent un outil très utile 
 
 # IDE
 
-L'objectif d'un environnement de développement est d'augmenter la productivité des programmeurs en automatisant une partie des activités et en simplifiant les opérations. Les environnements de développement visent également à améliorer la qualité de la documentation en rapport avec le logiciel en construction5. Certains environnements de développement offrent également la possibilité de créer des prototypes, de planifier les travaux et de gérer des projets.
+L'objectif d'un environnement de développement est d'augmenter la productivité des programmeurs en automatisant une partie des activités et en simplifiant les opérations. Les environnements de développement visent également à améliorer la qualité de la documentation en rapport avec le logiciel en construction. Certains environnements de développement offrent également la possibilité de créer des prototypes, de planifier les travaux et de gérer des projets.
 
 
 # Différents langages pour faire de l'Android
 
 - JAVA avec Eclipse (obsolète) et Android Studio
-	L'utilisation la plus classique pour créer des applications androids est l'utilisation du SDK (Software Development Kit) fourni par "google". Il est préférable d'utiliser un IDE afin de générer des classes complexes étant donné qu'il faut avoir une architecture de code complexe.
+	L'utilisation la plus classique pour créer des applications Android est l'utilisation du SDK (Software Development Kit) fourni par "google". Il est préférable d'utiliser un IDE afin de générer des classes complexes étant donné qu'il faut avoir une architecture de code complexe.
 - C++ avec android studio
 	"Google" a fournit le NDK (Native Development Kit ) qui permet de faire des applications android à partir de code en C et C++.
 - GoLang
-	Le langage "made in Google" a été conçu aussi afin d'être utilisé pour faire des applications android. Cependant comme ce langage est encore nouveau, toutes les fonctionnalités d'android ne sont pas encore implémentées. De plus, ce langage est procédural ce qui limite la conception des applications. Cependant il est bien possible d'imaginer que plus tard, afin de réaliser des petites applications, ce langage devienne de plus en plus utilisé.
+	Le langage "made in Google" a été conçu aussi afin d'être utilisé pour faire des applications android. Cependant comme ce langage est encore nouveau, toutes les fonctionnalités d'Android ne sont pas encore implémentées. De plus, ce langage est procédural ce qui limite la conception des applications. Cependant, il est bien possible d'imaginer que plus tard, afin de réaliser des petites applications, ce langage devienne de plus en plus utilisé.
 - HTML/JS avec Eclipse (obsolète) et Android Studio
 	<img src="images/webview_logo.jpg" />
-	Dans le SDK fourni, une classe java appelée WebView qui permet de convertir des fichiers HTML et javascript pour réaliser une application android. L'utilisation de l'HTML pour créer des pages ne gène en rien à l'utilisateur car elles sont très proches aux pages vues mais le javascript qui est un langage interprété et n'est pas natif à l'android peut avoir des pertes de performances.
+	Dans le SDK fourni, une classe java appelée WebView qui permet de convertir des fichiers HTML et javascript pour réaliser une application android. L'utilisation de l'HTML pour créer des pages ne gêne en rien à l'utilisateur car elles sont très proches aux pages vues mais le javascript qui est un langage interprété et n'est pas natif à l'android peut avoir des pertes de performances.
 - Ruby avec le framework Ruboto
 	<img src="images/ruboto_logo.jpg" />	
-	Le langage ruby intègre diverses librairies et frameworks dont un appelé "Ruboto". Il englobe certaines librairies qui permet d'intégrer en ruby certaines méthodes qui correspondent aux besoins du développement android. Puis il convertit le code en code java pour créer un .apk afin de déployer l'application. Ce framework est fonctionnel (version 1.4.1), donnera une application aussi rapide qu'une application réaliser avec Java et l'utilisation du ruby facilite les tests automatisés, cependant ce famework nécessiterait de cadrer les méthodes de travail (mvc n'est pas implémenté nativement) de plus ce n'est pas pratique de tester nous-mêmes l'application rapidement vu qu'il génère un .apk directement sur l'ordinateur.
+	Le langage ruby intègre diverses librairies et frameworks dont un appelé "Ruboto". Il englobe certaines librairies qui permet d'intégrer en ruby certaines méthodes qui correspondent aux besoins du développement Android. Puis il convertit le code en code java pour créer un .apk afin de déployer l'application. Ce framework est fonctionnel (version 1.4.1), donnera une application aussi rapide qu'une application réalisé avec Java et l'utilisation du ruby facilite les tests automatisés, cependant ce famework nécessiterait de cadrer les méthodes de travail (MVC n'est pas implémenté nativement) de plus ce n'est pas pratique de tester nous-mêmes l'application rapidement vu qu'il génère un .apk directement sur l'ordinateur.
 - PHP avec les outils de PHPForAndroid
 	<img src="images/phpforandroid_logo.jpg" />
 	L'utilisation du PHP est possible pour créer des applications android cependant c'est encore très expérimental et ça nécessite l'utilisation d'applications tierses qui vont comprendre le langage et l'interpréter pour l'android. Cependant pour les vues de l'application, il faut apprendre chaque objet qui est retranscrit en PHP ce qui n'est pas aisé.
 	
-Au vu de cette suite de langages possibles pour réaliser des applications androids, nous pouvons en déduire que pour les performances et la simplification du code produit, le Java et le C++ restent les meilleurs langages. Cependant le HTML/JS est aussi très utilisé car cela reste le plus simple pour réaliser ces applications.
+Au vu de cette suite de langages possibles pour réaliser des applications androids, nous pouvons en déduire que pour les performances et la simplification du code produit, le Java et le C++ restent les meilleurs langages. Cependant, le HTML/JS est aussi très utilisé, car cela reste le plus simple pour réaliser ces applications.
 
 
 # Plusieurs IDE pour faire de l'Android
@@ -51,5 +51,5 @@ C'est une application qui s'installe directement sur un terminal Android. Androi
 
 # Conclusion
 
-Android Studio est évidemment l'IDE le plus utilisé pour développer en Android étant donné qu'il est l'IDE officiel fournit par Google. Il permet de coder principalement en Java, même si d'autres langages sont envisageables. Il est certainement le plus performant avec IntelliJ Idea.
+Android Studio est évidemment l'IDE le plus utilisé pour développer en Android étant donné qu'il est l'IDE officiel fourni par Google. Il permet de coder principalement en Java, même si d'autres langages sont envisageables. Il est certainement le plus performant avec IntelliJ Idea.
 
