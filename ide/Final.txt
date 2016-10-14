@@ -1,0 +1,2 @@
+Problématique :
+Quelles sont les plateformes de développement les plus utilisées, et les plus performantes pour Android ?
